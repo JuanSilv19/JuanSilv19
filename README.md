@@ -1,4 +1,4 @@
-# Hi 👋 I'm Juan Cárdenas
+# Hi 👋 I'm Juan Cárdenas Silva
 
 💻 Systems Engineering Student  
 ☕ Java Backend Developer in Training  
@@ -31,11 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSilv19&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilv19&layout=compact&theme=tokyonight)
 
 ---
 
