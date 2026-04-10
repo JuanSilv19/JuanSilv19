@@ -21,19 +21,26 @@
 
 ## 🛠️ Languages and Tools
 
-- ☕ Java (Spring Boot)
-- 🐍 Python (projects and automation)
-- 🗄️ PostgreSQL + pgAdmin
-- 🌐 HTML, CSS, JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,html,css,js,git,github,linux" />
+</p>
 
-### 💻 Tools & IDEs
-- IntelliJ IDEA
-- Visual Studio Code
+---
+
+## 💻 Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
+
 - NetBeans
 
-### 🤖 AI Tools
-- Open Code
-- Claude Code
+---
+
+## 🤖 AI Tools
+
+- Open Code  
+- Claude Code  
 
 ---
 
