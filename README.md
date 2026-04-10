@@ -10,7 +10,10 @@
 ## 🚀 About Me
 
 - 📚 I’m currently learning **Java, Spring Boot and Cybersecurity**
-- 💻 Building backend projects and improving my programming skills
+- 💻 I have built projects in **Java and Python**
+- 🗄️ Experience working with **databases using PostgreSQL and pgAdmin**
+- 🛠️ I use tools like **IntelliJ IDEA, Visual Studio Code and NetBeans**
+- 🤖 I also use AI tools like **Open Code and Claude Code**
 - 🌱 Always learning new technologies
 - 🎯 My goal is to become a **Backend Developer**
 
@@ -18,26 +21,35 @@
 
 ## 🛠️ Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,html,css,linux" />
+- ☕ Java (Spring Boot)
+- 🐍 Python (projects and automation)
+- 🗄️ PostgreSQL + pgAdmin
+- 🌐 HTML, CSS, JavaScript
+
+### 💻 Tools & IDEs
+- IntelliJ IDEA
+- Visual Studio Code
+- NetBeans
+
+### 🤖 AI Tools
+- Open Code
+- Claude Code
 
 ---
 
 ## 📂 Projects
 
-🔹 **Conversor de Monedas** – Java application for currency conversion  
-🔹 **ForoHub API** – REST API built with Spring Boot  
-🔹 **Challenge Literatura** – Book API challenge  
-🔹 **Amigo Secreto** – Simple application project  
-
----
-
+- 🔹 **Currency Converter** – Java application for currency conversion  
+- 🔹 **ForoHub API** – REST API built with Spring Boot  
+- 🔹 **Literature Challenge** – Book API challenge  
+- 🔹 **Python Projects** – Automation and security-related scripts  
 
 ---
 
 ## 📫 Contact
 
-📧 Email: juanpodres@gmail.com  
-🌎 Location: Bucaramanga, Colombia  
+- 📧 Email: juanpodres@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-cardenas-silva-440448327  
 
 ---
 
