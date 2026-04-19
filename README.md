@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=auto&height=200&section=header&text=Juan%20Cárdenas%20Silva&fontSize=70&desc=Java%20Backend%20Developer%20|%20Cybersecurity%20Student&descSize=25&descAlignY=75" />
+</p>
 
 # Hi 👋 I'm Juan Cárdenas Silva
 
@@ -16,45 +19,69 @@ Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/juan-cardenas-silva-440448327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-  </a>
-  <a href="mailto:juanpodres@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail">
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Tech Stack (Vibrant & Colorful Style):
+## 💻 Tech Stack
 
-**Languages & Backend Core**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,hibernate" />
+**Backend & Programming**
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-**Databases, Querying & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,pgadmin,hibernate" />
+**Databases & Querying**
+<p>
+  <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white" />
 </p>
 
-**Dev Tools, IDEs & OS**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,netbeans,git,github,linux" />
-</p>
-
-**AI & Documentation**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=claude,openai,postman" />
+**Dev Tools & IDEs**
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
+## 📂 Featured Projects
 
-## 📈 GitHub Stats 
+🔹 **Currency Converter** <p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/App-Console-blue?style=for-the-badge" />
+</p>
+
+🔹 **ForoHub API** <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge" />
+</p>
+
+🔹 **Tic-Tac-Toe AI** <p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/AI-Minimax-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-Neon_Tkinter-blueviolet?style=for-the-badge" />
+</p>
+
+🔹 **Literature Challenge** <p>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📊 My Stats & Most Used Languages
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSilv19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
