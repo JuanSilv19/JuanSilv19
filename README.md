@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=auto&height=200&section=header&text=Juan%20Cárdenas%20Silva&fontSize=70&desc=Java%20Backend%20Developer%20|%20Cybersecurity%20Student&descSize=25&descAlignY=75" />
-</p>
 
 # Hi 👋 I'm Juan Cárdenas Silva
 
@@ -57,7 +54,7 @@ Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo
 ---
 
 
-## 📈 GitHub Stats (Neon Style):
+## 📈 GitHub Stats 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSilv19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
