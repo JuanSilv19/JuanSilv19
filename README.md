@@ -17,72 +17,45 @@ Mi experiencia práctica incluye el desarrollo de aplicaciones completas como el
 
 Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo de la **Ciberseguridad**. Creo firmemente que un buen desarrollador backend no solo debe escribir código eficiente, sino también **seguro por diseño**, anticipando vulnerabilidades para proteger los datos y la infraestructura.
 
-Mi objetivo es crecer como desarrollador backend, aportando soluciones creativas y seguras en equipos colaborativos.
-
 ---
 
 ## 🌐 Socials:
 
 <p>
   <a href="https://www.linkedin.com/in/juan-cardenas-silva-440448327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
   </a>
   <a href="mailto:juanpodres@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail">
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack (Badges Style):
+## 💻 Tech Stack (Vibrant & Colorful Style):
 
 **Languages & Backend Core**
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,hibernate" />
 </p>
 
-**Databases & Querying**
-<p>
-  <img src="https://img.shields.io/badge/postgres-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgAdmin-%23336699.svg?style=flat&logo=pgadmin&logoColor=white" />
+**Databases, Querying & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,pgadmin,hibernate" />
 </p>
 
 **Dev Tools, IDEs & OS**
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,netbeans,git,github,linux" />
 </p>
 
 **AI & Documentation**
-<p>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=claude,openai,postman" />
 </p>
 
 ---
 
-## 📂 Projects (Badges Style):
-
-🔹 **Currency Converter** – Java application for real-time currency conversion  
-   `![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)` `![Console App](https://img.shields.io/badge/App-Console-blue?style=for-the-badge)`
-
-🔹 **ForoHub API** – Full REST API for a forum service  
-   `![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)` `![MySQL](https://img.shields.io/badge/Database-MySQL-0000ff?style=for-the-badge)` `![JWT](https://img.shields.io/badge/Auth-JWT-brightgreen?style=for-the-badge)`
-
-🔹 **Tic-Tac-Toe AI** – 3x3/5x5 game with Minimax algorithm  
-   `![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)` `![AI/ML](https://img.shields.io/badge/Algorithm-Minimax-orange?style=for-the-badge)` `![UI/UX](https://img.shields.io/badge/UI-Tkinter%20(Neon)-blue?style=for-the-badge)`
-
-🔹 **Literature Challenge** – Book cataloging with external API data  
-   `![Spring Data JPA](https://img.shields.io/badge/Spring_Data-JPA-%236DB33F?style=for-the-badge)` `![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge)`
-
-🔹 **Python Scripts** – Automation and security-focused utilities  
-   `![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)` `![Security](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge)`
-
----
 
 ## 📈 GitHub Stats (Neon Style):
 
