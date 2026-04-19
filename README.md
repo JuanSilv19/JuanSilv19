@@ -1,8 +1,11 @@
+<div align="center">
+  <img src="https://i.ibb.co/3W4T5Qn/Banner-Juan-Cardenas.png" alt="Juan Cardenas Backend Developer" width="100%">
+</div>
+
 # Hi 👋 I'm Juan Cárdenas Silva
 
 💻 Systems Engineering Student  
-☕ Java Backend Developer in Training  
-🔐 Currently learning Cybersecurity  
+☕ **Java Backend Developer in Training** 🔐 Currently learning Cybersecurity  
 🚀 Interested in Backend Development, REST APIs and Spring Boot  
 
 ---
@@ -56,7 +59,7 @@
 ## 📫 Contact
 
 - 📧 Email: juanpodres@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-cardenas-silva-440448327  
+- 💼 LinkedIn: [Juan Cárdenas Silva](https://www.linkedin.com/in/juan-cardenas-silva-440448327)  
 
 ---
 
