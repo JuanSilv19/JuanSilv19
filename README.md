@@ -1,95 +1,29 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=auto&height=200&section=header&text=Juan%20Cárdenas%20Silva&fontSize=70&desc=Java%20Backend%20Developer%20|%20Cybersecurity%20Student&descSize=25&descAlignY=75" />
-</p>
-
 # Hi 👋 I'm Juan Cárdenas Silva
 
-💻 Systems Engineering Student  
-☕ **Java Backend Developer in Training** 🔐 **Currently learning Cybersecurity** 🚀 Interested in Backend Development, REST APIs and Spring Boot  
+# 💫 About Me:
+🚀 About Me<br>Soy un estudiante apasionado de Ingeniería de Sistemas con un enfoque claro en el desarrollo backend, especializado en el ecosistema de Java y Spring Boot. Mi camino en la programación comenzó por la curiosidad de entender cómo funcionan los sistemas complejos y hoy me dedico a construir bases sólidas y escalables para aplicaciones modernas.<br><br>Mi experiencia práctica incluye el desarrollo de aplicaciones completas como el ForoHub API, donde apliqué principios de REST APIs, autenticación con Spring Security y persistencia de datos. También disfruto resolviendo desafíos lógicos, lo que me llevó a implementar algoritmos complejos como Minimax para inteligencia artificial en proyectos personales como un juego de Tres en Raya.<br><br>Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo de la Ciberseguridad. Creo firmemente que un buen desarrollador backend no solo debe escribir código eficiente, sino también seguro por diseño, anticipando vulnerabilidades para proteger los datos y la infraestructura
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juan-cardenas-silva-44044832) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:juanpoodres@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JuanSilv19&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JuanSilv19&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JuanSilv19&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JuanSilv19&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JuanSilv19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=JuanSilv19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-
-Soy un estudiante apasionado de Ingeniería de Sistemas con un enfoque claro en el **desarrollo backend**, especializado en el ecosistema de **Java** y **Spring Boot**. Mi camino en la programación comenzó por la curiosidad de entender cómo funcionan los sistemas complejos y hoy me dedico a construir bases sólidas y escalables para aplicaciones modernas.
-
-Mi experiencia práctica incluye el desarrollo de aplicaciones completas como el **ForoHub API**, donde apliqué principios de **REST APIs**, autenticación con **Spring Security** y persistencia de datos. También disfruto resolviendo desafíos lógicos, lo que me llevó a implementar algoritmos complejos como **Minimax** para inteligencia artificial en proyectos personales como un juego de Tres en Raya.
-
-Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo de la **Ciberseguridad**. Creo firmemente que un buen desarrollador backend no solo debe escribir código eficiente, sino también **seguro por diseño**, anticipando vulnerabilidades para proteger los datos y la infraestructura.
-
----
-
-## 🌐 Socials
-
-<p>
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-
----
-
-## 💻 Tech Stack
-
-**Backend & Programming**
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-🔹 **Currency Converter** <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/App-Console-blue?style=for-the-badge" />
-</p>
-
-🔹 **ForoHub API** <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth-JWT-black?style=for-the-badge" />
-</p>
-
-🔹 **Tic-Tac-Toe AI** <p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/AI-Minimax-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-Neon_Tkinter-blueviolet?style=for-the-badge" />
-</p>
-
-🔹 **Literature Challenge** <p>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 📊 My Stats & Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanSilv19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilv19&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSilv19&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-⭐ From Bucaramanga, Colombia to the World
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
