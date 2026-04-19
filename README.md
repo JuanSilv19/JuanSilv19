@@ -36,15 +36,11 @@ Actualmente, estoy ampliando mi horizonte profesional sumergiéndome en el mundo
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
-
-**Databases & Querying**
 <p>
   <img src="https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white" />
 </p>
-
-**Dev Tools & IDEs**
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
