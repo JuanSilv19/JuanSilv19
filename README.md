@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Juan Cárdenas
+# 👋 ¡Hola, soy Juan Cárdenas!
 
-### 💻 Systems Engineering Student | Backend & Cybersecurity
+### 💻 Estudiante de Ingeniería de Sistemas | Backend & Ciberseguridad
 
-I'm a Systems Engineering student interested in **Backend Development,
-Cybersecurity, and Software Engineering**.
+Soy estudiante de Ingeniería de Sistemas interesado en el desarrollo de
+software, backend y ciberseguridad.
 
-I enjoy building applications, working with APIs and databases, and
-learning how to design secure and reliable systems.
+Me gusta aprender mediante proyectos prácticos y explorar tecnologías
+relacionadas con APIs, bases de datos, redes, Linux y seguridad.
 
-Currently learning and working with **Java, Spring Boot, Python, SQL,
-Linux, Networking and Cybersecurity**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-Java · Python · JavaScript · SQL
-
-**Backend**
-Spring Boot · REST APIs · Node.js
-
-**Databases**
-PostgreSQL · MySQL
-
-**Cybersecurity & Systems**
-Linux · Networking · Nmap · Git
+Actualmente estoy fortaleciendo mis conocimientos en **Java, Spring Boot,
+Python, Linux, Networking y Ciberseguridad**.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tecnologías y herramientas
 
-🔹 **Project 1** — Short description  
-🔹 **Project 2** — Short description  
-🔹 **Project 3** — Short description
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,nextjs,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,git,github,postman" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,powershell,arduino,vscode,idea,netbeans" />
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Contacto
 
-[LinkedIn] · [YouTube] · [Email]
+<p align="left">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
+</p>
