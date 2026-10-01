@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Julian Bacab!
+ Juan Cárdenas Silva
 
 ### 💻 Estudiante de Ingeniería de Sistemas | Backend & DevOps
 
@@ -17,19 +17,19 @@ Python, JavaScript, bases de datos, Linux y DevOps**.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,nextjs" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,postgres,mysql,supabase,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,postgres,mysql,supabase" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,linux,powershell,arduino" />
+<img src="https://skillicons.dev/icons?i=firebase,git,github,maven,postman,linux" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,netbeans" />
+<img src="https://skillicons.dev/icons?i=powershell,arduino,vscode,idea,netbeans" />
 
 </p>
 
@@ -39,11 +39,11 @@ Python, JavaScript, bases de datos, Linux y DevOps**.
 
 <p align="center">
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/juan-cardenas-silva-440448327/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:TU_EMAIL">
+<a href="mailto:TU_CORREO">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
 </a>
 
@@ -54,11 +54,9 @@ Python, JavaScript, bases de datos, Linux y DevOps**.
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanSilv19&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JulianBcb07&show_icons=true&theme=dark&hide_border=true">
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBcb07&layout=compact&theme=dark&hide_border=true">
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilv19&layout=compact&theme=dark&hide_border=true" />
 </p>
